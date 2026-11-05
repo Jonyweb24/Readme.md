@@ -4,7 +4,8 @@ Hi ! I am Jony.
 
   <!-- TYPING HEADER -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vcenter=true&width=600&lines=Aspiring+DevOps+Engineer;Linux+%2B+Docker+%2B+CI%2FCD+%2B+IaC;Building+Systems+%26+Automating+Pipelines...⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vcenter=true&width=600&lines=Aspiring+DevOps+Engineer;
+      Linux+%2B+Docker+%2B+CI%2FCD+%2B+IaC; Building+Systems+%26+Automating+Pipelines...⚡" alt="Typing SVG" />
   </h1>
 
   <p align="center">
@@ -62,22 +63,6 @@ Hi ! I am Jony.
 - ⚡ **Hands-on Practice:** Automating workflows with GitHub Actions, containerizing apps with Docker, and provisioning infrastructure using Ansible & Terraform.
 - 📈 **Observability:** Setting up monitoring dashboards with Prometheus + Grafana.
 - 🎓 **Learning Roadmap:** Deep-diving into production Kubernetes (Deployments, Services, Helm).
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="GitHub Stats" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" alt="Top Languages" width="45%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&background=000000&title=FFD700&text=FFFFFF&stroke=FFD700&sideLabels=FFFFFF&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNumbers=FFD700&dates=888888&hide_border=false&border=FFD700" alt="GitHub Streak" width="95%" />
-</div>
 
 ---
 
