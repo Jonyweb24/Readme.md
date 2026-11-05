@@ -3,9 +3,7 @@ Hi ! I am Jony.
 <div align="center">
 
   <!-- TYPING HEADER -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vcenter=true&width=600&lines=Aspiring+DevOps+Engineer;  Linux+%2B+Docker+%2B+CI%2FCD+%2B+IaC; Building+Systems+%26+Automating+Pipelines...⚡" alt="Typing SVG" />
-  </h1>
+  <h1 align="center">⚡ Aspiring DevOps & Cloud Engineer ⚡</h1>
 
   <p align="center">
     <b>Focused on Infrastructure Automation, Containerization & System Monitoring</b>
