@@ -3,7 +3,7 @@ Hi ! I am Jony.
 <div align="center">
 
   <!-- TYPING HEADER -->
-  <h1 align="center">⚡ Aspiring DevOps & Cloud Engineer ⚡</h1>
+  <h1 align="center">⚡ Aspiring DevOps Engineer ⚡</h1>
 
   <p align="center">
     <b>Focused on Infrastructure Automation, Containerization & System Monitoring</b>
