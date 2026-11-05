@@ -1,5 +1,5 @@
 # DevOps_Jony
-I am Eakub Hossain.
+Hi ! I am Jony.
 <div align="center">
 
   <!-- TYPING HEADER -->
@@ -64,13 +64,7 @@ I am Eakub Hossain.
 
 ---
 
-### 📊 GitHub Activity & Analytics
 
-<div align="center">
-
-  <!-- MAIN STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="GitHub Stats" width="49%" />
-  
   <!-- TOP LANGS -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" alt="Top Languages" width="45%" />
 
@@ -87,13 +81,10 @@ I am Eakub Hossain.
 
 ### ⚙️ Systems Configuration
 
-```json
-{
-  "candidate": {
-    "target_roles": ["DevOps Intern", "Junior DevOps Engineer"],
-    "core_competencies": ["Linux Systems", "Docker Containerization", "CI/CD Automation"],
-    "iac_and_config": ["Terraform", "Ansible"],
-    "monitoring": ["Prometheus", "Grafana"],
-    "scripting_and_web": ["Bash", "Node.js", "Express", "HTML/CSS/Tailwind"]
-  }
-}
+candidate:
+  target_roles:
+    - DevOps Intern
+    - Junior DevOps Engineer
+  core_competencies: [Linux, Docker, GitHub Actions]
+  iac_and_config: [Terraform, Ansible]
+  monitoring: [Prometheus, Grafana]
